@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Daniel Dagadu (@dannieRope)
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Sql
+- 🌱 
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me on X @dannieRope
 
