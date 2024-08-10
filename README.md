@@ -16,7 +16,7 @@ I am adept at
 
 `Data Analysis & Visualization:` Expertise in Excel, Power BI, and SQL to analyze large datasets, create insightful reports, and visualize data in a meaningful way.
 
-`Database Management:` Proficient in Access and SQL for database design, querying, and data manipulation.
+`Database Management:` Proficient in Microsoft Access and SQL for database design, querying, and data manipulation.
 
 `Automation & Scripting:` Skilled in VBA and M code for automating repetitive tasks and streamlining data workflows.
 
